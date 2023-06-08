@@ -9,12 +9,11 @@ An important part of cybersecurity is controlling access to restricted content. 
 - Python
 
 <p>
-To start we will login to our Domain Controller DC-1 as an admin account, and our Client-1 as a normal user. Inside DC-1 we will create 4 new folders on the C:\ drive. 
-  
-  1. Read-Access
-  2. Write-Access
-  3. No-Access
-  4. Accounting
+To start we will create 2 variables:
+
+  1. import_file - which will hold our allow_list.txt (the file containing all the IP Addresses that are allowed access.
+  2. remove_list - which is a list of all the IP Addresses no longer allowed access.
 </p>
 
-![image](https://user-images.githubusercontent.com/111653930/236332672-05b594de-e8d5-469e-81d9-f6d3ce785c3e.png)
+<img src="https://i.imgur.com/l2RhjRU.png" />
+
