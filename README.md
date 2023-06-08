@@ -19,7 +19,7 @@ To start we will create 2 variables:
 
 <p>
 </br>
-We start by openening the text file useing the "import_file" variable, the "with" keyword, and the "open()" function with the "r" parameter. 
+We start by openening the text file useing the "import_file" variable, the "with" keyword, and the "open()" function with the "r" parameter. Running the print command at the bottom confirms our list of ip addresses is now copied as a string into the new variable "ip_addresses".
 </p>
 
 <img src="https://i.imgur.com/FnubF5a.png" />
