@@ -30,3 +30,10 @@ After reading the file, we can now reassign the "ip_addresses" variable so its d
 </p>
 
 <img src="https://i.imgur.com/RKRqxki.png" />
+
+<p>
+</br>
+Now we'll write code that removes elements of our "remove_list" variable from the "ip_addresses" list. We need an iterative statement to do this. We name the loop variable "element", loop through the "remove_list" and display each element. 
+</p>
+
+<img src="https://i.imgur.com/GysopZC.png" />
