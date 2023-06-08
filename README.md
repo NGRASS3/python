@@ -1,18 +1,12 @@
 <img src="https://i.imgur.com/MSijigc.png" alt="Python"/>
 
 
-<h1>Network File Shares and Permissions</h1>
-In this tutorial were going to be sharing out files and folders over the Network and allowing different people and groups different levels of access.
+<h1>Automating Security Tasks with Python</h1>
+An important part of cybersecurity is controlling access to restricted content. In this turotial we'll develop an algorithm that parses a file containing IP addresses that are allowed to access restricted content and remove addresses that no longer have access.
 
-<h2>Environments and Technologies Used</h2>
+<h2>Technologie Used</h2>
 
-- Microsoft Azure (Virtual Machines/Domain Controller/Client Machine)
-- Remote Desktops with Active Directory
-- Shared Network Files
-
-<h2>Operating Systems Used </h2>
-
-- Windows 10(21H2)
+- Python
 
 <p>
 To start we will login to our Domain Controller DC-1 as an admin account, and our Client-1 as a normal user. Inside DC-1 we will create 4 new folders on the C:\ drive. 
