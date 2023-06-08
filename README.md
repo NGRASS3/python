@@ -17,3 +17,16 @@ To start we will create 2 variables:
 
 <img src="https://i.imgur.com/l2RhjRU.png" />
 
+<p>
+</br>
+After reading the file, we can now reassign the "ip_addresses" variable so its data type is updated from a string to a list. We use the ".split()" function to achieve this. Running "print(ip_addresses) confirms the change took place.
+</p>
+
+<img src="https://i.imgur.com/FnubF5a.png" />
+
+<p>
+</br>
+.
+</p>
+
+<img src="https://i.imgur.com/FnubF5a.png" />
