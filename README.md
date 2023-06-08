@@ -37,3 +37,10 @@ Now we'll write code that removes elements of our "remove_list" variable from th
 </p>
 
 <img src="https://i.imgur.com/GysopZC.png" />
+
+<p>
+</br>
+Now, in the body of the iterative statement we apply the ".remove()" method to the "ip_addresses" list and remove the ip addresses identified in the loop "element".
+</p>
+
+<img src="https://i.imgur.com/eGXyMrd.png" />
