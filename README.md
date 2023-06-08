@@ -44,3 +44,9 @@ Now, in the body of the iterative statement we apply the ".remove()" method to t
 </p>
 
 <img src="https://i.imgur.com/eGXyMrd.png" />
+
+<p>
+</br>
+The final step will be to update the original file that was used to create "ip_addresses". We use the ".join()" method so the file can be updated. After the line with the ".join()" method, we build the "with" statement that rewrites the original file. Instead of "r" now we use "w" when calling the "open()" function to delete the contents in the original file and replace it with our new info. In the following screenshot I've documented what each piece of code does to sum up the turotial.</p>
+
+<img src="https://i.imgur.com/8qPdgqT.png" />
