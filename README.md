@@ -4,7 +4,7 @@
 <h1>Automating Security Tasks with Python</h1>
 An important part of cybersecurity is controlling access to restricted content. In this turotial we'll develop an algorithm that parses a file containing IP addresses that are allowed to access restricted content and remove addresses that no longer have access.
 
-<h2>Technologie Used</h2>
+<h2>Technologies Used</h2>
 
 - Python
 
